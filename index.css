@@ -1,0 +1,168 @@
+body {
+    background-color: rgb(253, 250, 241);
+    margin: 0;
+    padding: 0;
+    letter-spacing: 120%;
+    font-family: "Hanken Grotest", sans-serif;
+}
+
+header {
+    background-color: rgba(156, 154, 154, 0.831);
+    margin-top: 0;
+    padding: 30px;
+}
+
+h1 {
+    font-family: "Archivo Black", sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 400%;
+    margin-top: 0;
+    padding-top: 30px;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+}
+
+nav li {
+    display: inline-block;
+    background-color: rgb(255, 253, 248);
+    width: 130px;
+    padding: 10px;
+    margin: 0 5px;
+    text-align: center;
+    border: 1px solid rgb(255, 253, 248);
+    border-radius: 3px;
+}
+
+nav li:hover {
+    background-color: rgb(224, 222, 234);
+
+}
+
+section {
+    background-color: rgba(255, 253, 248, 0.797);
+    border: 3px solid gray;
+    margin: 50px 50px;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Archivo Black", sans-serif;
+    background-color: rgba(156, 154, 154, 0.5);
+    padding: 10px;
+    font-size: 30px;
+    margin-top: 0;
+    border-bottom: 3px solid gray;
+}
+
+#colors li {
+    display: inline-block;
+    margin: 20px 20px;
+    padding: 30px 30px;
+    width: 40%;
+    text-align: center;
+}
+
+.color-name {
+    font-weight: bold;
+    font-size: 130%
+}
+
+.purple {
+    background-color: rgb(145, 90, 145);
+}
+
+.lilac {
+    background-color: rgb(226, 212, 248);
+}
+
+.blue {
+    background-color: rgb(95, 76, 206);
+}
+
+.sky {
+    background-color: rgb(206, 219, 246);
+}
+
+
+#fonts li {
+    display: inline-block;
+    margin: 10px 20px;
+    padding: 10px 30px;
+    width: 40%;
+    font-size: 110%;
+    line-height: 2;
+}
+
+.name {
+    font-size: 130%;
+    text-decoration: underline;
+}
+
+.hg {
+    font-family: "Hanken Grotesk";
+}
+
+.archivo {
+    font-family: "Archivo";
+}
+
+.archivo-black {
+    font-family: "Archivo Black";
+}
+
+.italics {
+    font-style: italic;
+    text-decoration: none;
+}
+
+.bold {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#text-styles ul {
+    margin-bottom: 30px;
+}
+
+#text-styles p {
+    margin: 20px 80px;
+}
+
+#text-styles li {
+    font-family: "Hanken Grotesk", sans-serif;
+    margin: 0px 80px;
+}
+
+.fourty {
+    font-size: 40px;
+}
+
+.thirty {
+    font-size: 30px;
+}
+
+.sixteen {
+    font-size: 16px;
+}
+
+footer {
+    text-align: center;
+    background-color: rgba(156, 154, 154, 0.831);
+    margin-top: 0;
+    padding: 30px;
+}
+
+.author {
+    font-weight: 700;
+    text-transform: uppercase;
+}
